@@ -1,4 +1,4 @@
-#ECG signal analysis
+# ECG signal analysis
 
 Interpreting the nonstationary, nonlinear, and complex ECG signals visually is a challenging task. Moreover, extracting task-relevant features from ECG signals can be tedious and demanding. Traditional linear methods may not be sufficient to capture the intricate dynamic variations present in ECG data. Consequently, the use of deep learning (DL)-based approaches has gained prominence in the extraction of features from ECG signals for the purpose of computer-aided diagnosis (CAD) of cardiovascular conditions. DL methods have the capability to automatically extract highly complex and nonlinear features from raw ECG data with minimal human intervention, significantly enhancing the accuracy and efficiency of cardiovascular disease diagnosis.
 
